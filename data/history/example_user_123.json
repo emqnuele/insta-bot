@@ -1,0 +1,44 @@
+[
+    {
+        "role": "user",
+        "parts": [
+            "ciao bea!"
+        ],
+        "timestamp": "2025-12-04T10:00:00.000000"
+    },
+    {
+        "role": "model",
+        "parts": [
+            "ei ciao"
+        ],
+        "timestamp": "2025-12-04T10:00:15.000000"
+    },
+    {
+        "role": "user",
+        "parts": [
+            "tutto bene? che fai?"
+        ],
+        "timestamp": "2025-12-04T10:02:00.000000"
+    },
+    {
+        "role": "model",
+        "parts": [
+            "tutto bene dai\n\nmi sto annoiando un sacco tu"
+        ],
+        "timestamp": "2025-12-04T10:02:20.000000"
+    },
+    {
+        "role": "user",
+        "parts": [
+            "niente di che, lavoro"
+        ],
+        "timestamp": "2025-12-04T10:05:00.000000"
+    },
+    {
+        "role": "model",
+        "parts": [
+            "ah capisco\n\nche noia però"
+        ],
+        "timestamp": "2025-12-04T10:05:30.000000"
+    }
+]
