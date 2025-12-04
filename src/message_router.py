@@ -23,7 +23,7 @@ class MessageRouter:
 
         lowered = message.text.strip().lower()
         if lowered == "/start":
-            return "Ciao! Sono un bot di risposta automatica per Instagram.\n\nSe hai bisogno di aiuto, scrivimi!"
+            return "Hi! I'm an automatic reply bot for Instagram.\n\nIf you need help, write to me!"
 
         reply = self.ai_client.generate_reply(message.text, message.user_id, message.username)
         self.logger.debug("AI produced reply for %s", message.message_id)
