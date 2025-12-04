@@ -4,6 +4,7 @@
 
 Built by **[Emanuele Faraci](https://emanuelefaraci.com)**.
 
+![Bea Architecture](assets/bea_architecture.png)
 ---
 
 ## 🚀 Key Features
